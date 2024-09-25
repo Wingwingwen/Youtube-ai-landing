@@ -73,9 +73,9 @@ export default function ({ footer }: { footer: Footer }) {
           {!footer.badge_disabled && (
             <div className="mt-4 mb-2 flex flex-wrap space-x-2 text-sm dark:text-gray-400">
               <div className="w-full flex-shrink-0">
-                built with{" "}
+                sponse by{" "}
                 <a
-                  href="https://pagen.so"
+                  href="https://open.ai"
                   target="_blank"
                   className="text-secondary-500"
                 >

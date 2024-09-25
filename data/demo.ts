@@ -5,10 +5,10 @@ export const page: Page = {
   theme: "light",
   header: {
     brand: {
-      title: "Pagen",
+      title: "tubeGPT",
       avatar: {
         src: "/imgs/logo.png",
-        title: "Pagen",
+        title: "tubeGPT",
       },
       url: "/",
     },
@@ -20,17 +20,17 @@ export const page: Page = {
           target: "_blank",
         },
         {
-          title: "Generators",
+          title: "Youtube title generator",
           url: "https://pagen.so/landing-page-generator",
           target: "_blank",
         },
         {
-          title: "Showcases",
+          title: "Youtube content generators",
           url: "https://pagen.so/showcases",
           target: "_blank",
         },
         {
-          title: "Templates",
+          title: "Blog",
           url: "https://pagen.so/templates",
           target: "_blank",
         },
@@ -38,16 +38,16 @@ export const page: Page = {
     },
     buttons: [
       {
-        title: "Sign In",
+        title: "Login",
         url: "https://pagen.so/api/auth/signin?callbackUrl=%2Flanding-page-generator",
         target: "_blank",
       },
     ],
   },
   hero: {
-    title: "Create Landing Page with AI Power",
+    title: "Transform Your YouTube Channel with tubeGPT",
     description:
-      "Design and launch high-converting landing pages with ease using Pagen AI. Ship Fast with your ideas.",
+      "Boost your creativity with YouTube's AI-powered writing assistantengagement, and social media marketing.",
     image: {
       src: "/imgs/hero.png",
     },
@@ -55,7 +55,7 @@ export const page: Page = {
     text_align: "left",
     buttons: [
       {
-        title: "Start for free",
+        title: "Get start",
         url: "https://pagen.so/landing-page-generator",
         target: "_blank",
       },
@@ -73,9 +73,9 @@ export const page: Page = {
     items: [
       {
         name: "what",
-        title: "What is Pagen",
+        title: "What is tubeGPT",
         description:
-          "Pagen is an AI landing page generator that simplifies the process of creating effective landing pages. With its intuitive interface and smart algorithms, you can generate pages that convert visitors into customers.",
+          "tubeGPT is an innovative AI tool that transforms YouTube content creation through automation and deep insights.",
         image: {
           src: "/imgs/section1.png",
         },
@@ -101,9 +101,9 @@ export const page: Page = {
       },
       {
         name: "why",
-        title: "Why Choose Pagen",
+        title: "Why Choose tubeGPT",
         description:
-          "Pagen stands out with its user-friendly design, powerful AI capabilities, and customizable templates that cater to various industries. It saves you time and enhances your marketing efforts.",
+          "Because most youtubers don't know what kind of video title and description is going to get 100k views, or only have a vague inspiration. Now all it takes is a link or inspirational vocabulary to get a complete professional youtube video title, description, and video outline!",
         image: {
           src: "/imgs/section2.png",
         },
@@ -128,7 +128,7 @@ export const page: Page = {
         name: "how",
         title: "How to Use Pagen",
         description:
-          "Getting started with Pagen is simple and quick. Follow these steps to create your first landing page:",
+          "Follow these simple steps to leverage tubeGPT for your YouTube success.",
         image: {
           src: "/imgs/section3.png",
         },
@@ -138,22 +138,22 @@ export const page: Page = {
           {
             title: "1. Describe your Idea",
             description:
-              "Give a product name and a simple description to Pagen Landing Page Genrator.",
+              "Give a target video url or your idea .",
           },
           {
-            title: "2. Choose a Template",
+            title: "2. Choose a Idea",
             description:
-              "Select from a variety of professionally designed templates that suit your needs.",
+              "Select from a variety of professionally idea that suit your needs.",
           },
           {
-            title: "3. Customize Your Page",
+            title: "3. Check the details and generate your Youtube video",
             description:
-              "Use our AI tools to personalize your landing page with text, images, and branding.",
+              "Use our AI tools to personalize your Youtube video title , description , tags and Video Outline",
           },
         ],
         buttons: [
           {
-            title: "Read to try 👉",
+            title: "Boost your channel now 👉",
             url: "https://pagen.so/landing-page-generator",
             target: "_blank",
           },
@@ -162,9 +162,9 @@ export const page: Page = {
     ],
   },
   feature: {
-    title: "Key Features of Pagen",
+    title: "Make a Youtube video with AI in 5 Minutes",
     description:
-      "Explore the powerful features that make Pagen the best choice for landing page creation.",
+      "The easiest way to generate Youtube content and boost your channel",
     items: [
       {
         title: "AI-Powered Design",
@@ -217,8 +217,8 @@ export const page: Page = {
     ],
   },
   cta: {
-    title: "Can't wait to use Pagen?",
-    description: "Just start from here, make your idea to be seen",
+    title: "Grow your channel faster!",
+    description: "Start your journey to YouTube success today!",
     buttons: [
       {
         title: "Try Now",
@@ -289,54 +289,44 @@ export const page: Page = {
     ],
   },
   faq: {
-    title: "Frequently Asked Questions About Pagen",
+    title: "FAQ",
     description: "Find answers to common questions about using Pagen.",
     items: [
       {
-        title: "How many pages can I generate using Pagen?",
+        title: "What is tubeGPT?",
         description:
-          "You can generate 3 pages as default, get more credits for page generation when you upgrade to Pro.",
+          "tubeGPT is an online AI Youtube creativity tool that allows you to analytics target channel and genaerate better content using a user-friendly interface.",
       },
       {
-        title: "Is there a free trial available?",
+        title: "How do I use a tubeGPT?",
         description:
-          "Yes, Pagen offers a free trial so you can explore its features before committing.",
+          "Using tubeGPT is simple and straightforward. First enter your target video URL or your creative. Then, choose one of the dozens of creative ideas generated at once to see the title, description, video outline, and multiple AI-generated video covers. Once you're happy with the idea, you can start creating your Youtube videos quickly and become a breakout account fast!",
       },
       {
-        title: "Can I integrate Pagen with other tools?",
+        title: "Can I use a idea for my business?",
         description:
-          "Absolutely! Pagen integrates seamlessly with various marketing and analytics tools.",
+          "Absolutely! You can confidently use an idea generated by tubeGPT for your business. ",
       },
       {
-        title: "What types of businesses can benefit from Pagen?",
+        title: "Why should I use tubeGPT?",
         description:
-          "Pagen is perfect for marketers, startups, e-commerce businesses, and anyone looking to create effective landing pages.",
-      },
-      {
-        title: "Do I need coding skills to use Pagen?",
-        description:
-          "No coding skills are required! Pagen is designed for users of all skill levels.",
-      },
-      {
-        title: "What support options are available?",
-        description:
-          "Pagen offers customer support via email and a comprehensive knowledge base for self-help.",
+          "Because most youtubers don't know what kind of video title and description is going to get 100k views, or only have a vague inspiration. Now all it takes is a link or inspirational vocabulary to get a complete professional youtube video title, description, and video outline!",
       },
     ],
   },
   footer: {
     brand: {
-      title: "Pagen",
+      title: "tubeGPT",
       description:
-        "Pagen is a page generator powered by AI, it's designed to help businesses and marketers effortlessly create high-converting landing pages that drive results.",
+        "tubeGPT is an AI-powered YouTube tool designed to optimize your video content, enhance audience engagement, and drive effective social media marketing.",
       avatar: {
         src: "/imgs/logo.png",
-        title: "Pagen",
+        title: "tubGPT",
       },
       url: "https://pagen.so",
     },
     badge_disabled: false,
-    copyright: "© 2024 • Pagen All rights reserved.",
+    copyright: "© 2024 • tubeGPT All rights reserved.",
     social: {
       items: [
         {
@@ -369,31 +359,26 @@ export const page: Page = {
     nav: {
       items: [
         {
-          title: "Products",
+          title: "AI Youtuber tools",
           children: [
             {
-              title: "Landing Page Generator",
-              url: "https://pagen.so/landing-page-generator",
-              target: "_blank",
-            },
-          ],
-        },
-        {
-          title: "Friends",
-          children: [
-            {
-              title: "ThinkAny",
-              url: "https://thinkany.ai",
+              title: "Sider",
+              url: "https://sider.ai/",
               target: "_blank",
             },
             {
-              title: "HeyBeauty",
-              url: "https://heybeauty.ai",
+              title: "Grammarl",
+              url: "https://www.grammarly.com/",
               target: "_blank",
             },
             {
-              title: "GPTs Works",
-              url: "https://gpts.works",
+              title: "AI tools directory",
+              url: "https://www.toolify.ai/",
+              target: "_blank",
+            },
+            {
+              title: "Tips For How To Get More YouTube Views.",
+              url: "https://www.toolify.ai/",
               target: "_blank",
             },
           ],
