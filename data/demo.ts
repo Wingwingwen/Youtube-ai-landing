@@ -5,10 +5,10 @@ export const page: Page = {
   theme: "light",
   header: {
     brand: {
-      title: "tubeGPT",
+      title: "AI播客生成器",
       avatar: {
         src: "/imgs/logo.png",
-        title: "tubeGPT",
+        title: "AI播客生成器",
       },
       url: "/",
     },
@@ -38,7 +38,7 @@ export const page: Page = {
     },
     buttons: [
       {
-        title: "Login",
+        title: "登录",
         url: "https://pagen.so/api/auth/signin?callbackUrl=%2Flanding-page-generator",
         target: "_blank",
       },
@@ -55,7 +55,7 @@ export const page: Page = {
     text_align: "left",
     buttons: [
       {
-        title: "Get start",
+        title: "开始生成AI播客",
         url: "https://pagen.so/landing-page-generator",
         target: "_blank",
       },
@@ -73,9 +73,9 @@ export const page: Page = {
     items: [
       {
         name: "what",
-        title: "What is tubeGPT",
+        title: "什么是AI播客生成器",
         description:
-          "tubeGPT is an innovative AI tool that transforms YouTube content creation through automation and deep insights.",
+          "AI播客生成器是一个强大的工具，利用先进的AI技术将您的想法在10s内制作出专业质量的AI播客",
         image: {
           src: "/imgs/section1.png",
         },
@@ -83,27 +83,27 @@ export const page: Page = {
         text_align: "center",
         items: [
           {
-            title: "Landing Page Generator",
+            title: "AI加持",
             description:
-              "Pagen can help to generate landing page quickly from your idea",
+              "强大的AI播客生成器，轻松将文本和想法转换为专业播客，帮助内容创作者提升生产力。",
           },
           {
-            title: "Page Content Generator",
+            title: "精美的音频",
             description:
-              "Pagen can help to Generate high-quality page content with AI",
+              "一键将您的内容或想法转换为精美的完整AI播客",
           },
           {
-            title: "Variety Templates",
+            title: "革新的创作生成工具",
             description:
-              "Pagen has multiple built-in page templates to make landing page looks great",
+              "您需要的只是点击",
           },
         ],
       },
       {
         name: "why",
-        title: "Why Choose tubeGPT",
+        title: "为什么选择AI播客生成器",
         description:
-          "Because most youtubers don't know what kind of video title and description is going to get 100k views, or only have a vague inspiration. Now all it takes is a link or inspirational vocabulary to get a complete professional youtube video title, description, and video outline!",
+          "轻松提高播客生产力和点击率",
         image: {
           src: "/imgs/section2.png",
         },
@@ -111,24 +111,24 @@ export const page: Page = {
         text_align: "center",
         items: [
           {
-            title: "Ship Fast",
-            description: "Create landing page in seconds",
+            title: "加速您的创作过程",
+            description: "一个想法或者一篇文章都可以立刻获得超高传播都的播客脚本及音频",
           },
           {
-            title: "Easy to use",
-            description: "Just need a product name from your idea",
+            title: "结合AI、观看次数预测算法和播客最佳实践",
+            description: "通过先进的算法和直观的界面，您可以在几分钟内制作出专业质量的AI播客",
           },
           {
-            title: "AI Powered",
-            description: "Generate high-quality page content with AI",
+            title: "让您的内容获得应有的关注的标题",
+            description: "不再让您的创作和期望落空",
           },
         ],
       },
       {
         name: "how",
-        title: "How to Use Pagen",
+        title: "如何使用AI播客生成器",
         description:
-          "Follow these simple steps to leverage tubeGPT for your YouTube success.",
+          "用一个想法来开始您的第一个AI播客吧！",
         image: {
           src: "/imgs/section3.png",
         },
@@ -136,24 +136,24 @@ export const page: Page = {
         text_align: "center",
         items: [
           {
-            title: "1. Describe your Idea",
+            title: "1. 输入您的想法或者文本内容",
             description:
-              "Give a target video url or your idea .",
+              "为您的AI播客选择希望创作的主题内容。",
           },
           {
-            title: "2. Choose a Idea",
+            title: "2. 生成完整的AI播客",
             description:
-              "Select from a variety of professionally idea that suit your needs.",
+              "等待数秒就可以获得超高质量的完整AI播客了",
           },
           {
-            title: "3. Check the details and generate your Youtube video",
+            title: "3. 发布到您的平台或者使用我们的一键发布",
             description:
-              "Use our AI tools to personalize your Youtube video title , description , tags and Video Outline",
+              "现在让您的创意来冲击用户的思想空间吧！",
           },
         ],
         buttons: [
           {
-            title: "Boost your channel now 👉",
+            title: "创作您的第一个播客 👉",
             url: "https://pagen.so/landing-page-generator",
             target: "_blank",
           },
@@ -162,54 +162,54 @@ export const page: Page = {
     ],
   },
   feature: {
-    title: "Make a Youtube video with AI in 5 Minutes",
+    title: "用AI驱动的播客生成器革新您的生产力",
     description:
-      "The easiest way to generate Youtube content and boost your channel",
+      "我们的AI播客生成器旨在通过创建引人入胜、内容丰富的播客来改变您的内容创作，这些播客能吸引听众并提升在线影响力。体验结合自然语言处理与细致内容策略的尖端技术，重新定义您创作播客的方式。",
     items: [
       {
-        title: "AI-Powered Design",
+        title: "文本转化播客创作",
         description:
-          "Harness the power of AI to automatically generate beautiful and responsive landing page designs tailored to your brand and target audience.",
+          "将您的书面内容或想法迅速转化为超高质量的AI播客。加持了GPT4O及Claude的超强算力帮助您生成吸引人的播客j脚本及稿件，提升创作效率，完美呈现您的思想。",
         avatar: {
           src: "/imgs/icons/1.svg",
         },
       },
       {
-        title: "Customizable Templates",
+        title: "openAI的语音能力",
         description:
-          "Choose from a wide range of customizable templates that fit your brand's style and message.",
+          "通过多种逼真的AI语音选择，为播客配音，让您的音频内容更具个性和吸引力。不论是温柔的叙述还是激情澎湃的采访，AI播客生成器都能满足您的需求。",
         avatar: {
           src: "/imgs/icons/2.svg",
         },
       },
       {
-        title: "SEO Optimization",
+        title: "不浪费任何灵感和想法",
         description:
-          "Built-in SEO tools to help your landing pages rank higher in search engines and attract more visitors.",
+          "不要错过任何你的灵感和想法，将它放到AI播客生成器里变成超高质量的播客吧",
         avatar: {
           src: "/imgs/icons/3.svg",
         },
       },
       {
-        title: "Analytics Integration",
+        title: "超强的关键词洞悉",
         description:
-          "Track the performance of your landing pages with integrated analytics tools to optimize your campaigns.",
+          "使用我们先进的关键词工具来主导您的细分市场。发现热门关键词，了解其得分，并找到相关术语来提高您的知名度。利用这些数据来创建吸引目标受众并最大化您的覆盖面的内容",
         avatar: {
           src: "/imgs/icons/4.svg",
         },
       },
       {
-        title: "Mobile Responsiveness",
+        title: "革新级别的效率和准确性",
         description:
-          "All landing pages created with Pagen are fully responsive, ensuring a seamless experience on any device.",
+          "体验无与伦比的创作效率和速度，节省宝贵的时间。",
         avatar: {
           src: "/imgs/icons/5.svg",
         },
       },
       {
-        title: "User-Friendly Interface",
+        title: "简洁方便的操作界面",
         description:
-          "An intuitive drag-and-drop interface that makes it easy for anyone to create stunning landing pages without any coding skills.",
+          "简单编辑的操作界面，从输入想法到输出完整AI播客只需点击一个按钮.",
         avatar: {
           src: "/imgs/icons/6.svg",
         },
@@ -217,8 +217,8 @@ export const page: Page = {
     ],
   },
   cta: {
-    title: "Grow your channel faster!",
-    description: "Start your journey to YouTube success today!",
+    title: "让所有人都可以一键创作自己的AI播客",
+    description: "让您的想法更快更简单地被所有人听到!",
     buttons: [
       {
         title: "Try Now",
@@ -227,98 +227,98 @@ export const page: Page = {
       },
     ],
   },
-  testimonial: {
-    title: "What Users Say About Pagen",
-    description:
-      "Hear from our satisfied users who have transformed their landing page creation process.",
-    items: [
-      {
-        name: "Mike Jordan",
-        title: "Full-stack Developer",
-        description:
-          "I love this tool so much, it's awesome! Pagen has made my landing page creation process so much easier.",
-        avatar: {
-          src: "/imgs/user/1.png",
-        },
-      },
-      {
-        name: "Sarah Lee",
-        title: "Marketing Manager",
-        description:
-          "Pagen's AI technology is a game changer. I can create landing pages in minutes!",
-        avatar: {
-          src: "/imgs/user/2.png",
-        },
-      },
-      {
-        name: "Tom Smith",
-        title: "Entrepreneur",
-        description:
-          "The templates are beautiful and customizable. I highly recommend Pagen!",
-        avatar: {
-          src: "/imgs/user/3.png",
-        },
-      },
-      {
-        name: "Emily Davis",
-        title: "Content Creator",
-        description:
-          "Pagen has helped me increase my conversion rates significantly. It's a must-have tool!",
-        avatar: {
-          src: "/imgs/user/4.png",
-        },
-      },
-      {
-        name: "John Doe",
-        title: "Business Owner",
-        description:
-          "I was able to create a professional landing page without any design skills. Thank you, Pagen!",
-        avatar: {
-          src: "/imgs/user/5.png",
-        },
-      },
-      {
-        name: "Lisa White",
-        title: "Freelancer",
-        description:
-          "The user interface is so easy to navigate. I love using Pagen for my projects!",
-        avatar: {
-          src: "/imgs/user/6.png",
-        },
-      },
-    ],
-  },
+  // testimonial: {
+  //   title: "What Users Say About Pagen",
+  //   description:
+  //     "Hear from our satisfied users who have transformed their landing page creation process.",
+  //   items: [
+  //     {
+  //       name: "Mike Jordan",
+  //       title: "Full-stack Developer",
+  //       description:
+  //         "I love this tool so much, it's awesome! Pagen has made my landing page creation process so much easier.",
+  //       avatar: {
+  //         src: "/imgs/user/1.png",
+  //       },
+  //     },
+  //     {
+  //       name: "Sarah Lee",
+  //       title: "Marketing Manager",
+  //       description:
+  //         "Pagen's AI technology is a game changer. I can create landing pages in minutes!",
+  //       avatar: {
+  //         src: "/imgs/user/2.png",
+  //       },
+  //     },
+  //     {
+  //       name: "Tom Smith",
+  //       title: "Entrepreneur",
+  //       description:
+  //         "The templates are beautiful and customizable. I highly recommend Pagen!",
+  //       avatar: {
+  //         src: "/imgs/user/3.png",
+  //       },
+  //     },
+  //     {
+  //       name: "Emily Davis",
+  //       title: "Content Creator",
+  //       description:
+  //         "Pagen has helped me increase my conversion rates significantly. It's a must-have tool!",
+  //       avatar: {
+  //         src: "/imgs/user/4.png",
+  //       },
+  //     },
+  //     {
+  //       name: "John Doe",
+  //       title: "Business Owner",
+  //       description:
+  //         "I was able to create a professional landing page without any design skills. Thank you, Pagen!",
+  //       avatar: {
+  //         src: "/imgs/user/5.png",
+  //       },
+  //     },
+  //     {
+  //       name: "Lisa White",
+  //       title: "Freelancer",
+  //       description:
+  //         "The user interface is so easy to navigate. I love using Pagen for my projects!",
+  //       avatar: {
+  //         src: "/imgs/user/6.png",
+  //       },
+  //     },
+  //   ],
+  // },
   faq: {
     title: "FAQ",
     description: "Find answers to common questions about using Pagen.",
     items: [
       {
-        title: "What is tubeGPT?",
+        title: "什么是AI播客生成器",
         description:
-          "tubeGPT is an online AI Youtube creativity tool that allows you to analytics target channel and genaerate better content using a user-friendly interface.",
+          "是一款AI播客生成器，它可以帮助您把文字、网址或者您自己的想法轻松地转换成高质量的播客。只需要几分钟，您就可以拥有一个专业的播客",
       },
       {
-        title: "How do I use a tubeGPT?",
+        title: "我可以用AI播客生成器从哪些内容创建播客？",
         description:
-          "Using tubeGPT is simple and straightforward. First enter your target video URL or your creative. Then, choose one of the dozens of creative ideas generated at once to see the title, description, video outline, and multiple AI-generated video covers. Once you're happy with the idea, you can start creating your Youtube videos quickly and become a breakout account fast!",
+          "您可以使用AI播客生成器从各种内容创建播客，包括任何网页的URL、您自己写的文本或者自定义的主题。这让创建播客变得非常灵活和方便。",
       },
       {
-        title: "Can I use a idea for my business?",
+        title: "AI播客生成器的使用难度大吗",
         description:
-          "Absolutely! You can confidently use an idea generated by tubeGPT for your business. ",
+          "非常简单！AI播客生成器的界面简单易用，任何人都可以轻松上手。无论您是初学者还是有经验的内容创作者，使用AI播客生成器快速制作出专业质量的播客就是我们的追求。 ",
       },
       {
-        title: "Why should I use tubeGPT?",
+        title: "提供免费试用吗？",
         description:
-          "Because most youtubers don't know what kind of video title and description is going to get 100k views, or only have a vague inspiration. Now all it takes is a link or inspirational vocabulary to get a complete professional youtube video title, description, and video outline!",
+          "是的，目前提供免费试用，您可以在体验之前先试用一下软件，看看它是否符合您的需求。进入网站之后，您可以找到相关的免费试用链接。",
       },
     ],
   },
   footer: {
     brand: {
-      title: "tubeGPT",
+      title: "AI播客生成器",
       description:
-        "tubeGPT is an AI-powered YouTube tool designed to optimize your video content, enhance audience engagement, and drive effective social media marketing.",
+        "AI播客生成器是一款AI播客生成器，通过简单的文件或文本输入，快速创建高质量播客，让所有内容创作者快速制作出专业质量的播客就是我们的追求者。",
       avatar: {
         src: "/imgs/logo.png",
         title: "tubGPT",
@@ -326,7 +326,7 @@ export const page: Page = {
       url: "https://pagen.so",
     },
     badge_disabled: false,
-    copyright: "© 2024 • tubeGPT All rights reserved.",
+    copyright: "© 2024 • PodcastAI All rights reserved.",
     social: {
       items: [
         {
@@ -359,7 +359,7 @@ export const page: Page = {
     nav: {
       items: [
         {
-          title: "AI Youtuber tools",
+          title: "AI播客创作者工具",
           children: [
             {
               title: "Sider",
@@ -373,11 +373,6 @@ export const page: Page = {
             },
             {
               title: "AI tools directory",
-              url: "https://www.toolify.ai/",
-              target: "_blank",
-            },
-            {
-              title: "Tips For How To Get More YouTube Views.",
               url: "https://www.toolify.ai/",
               target: "_blank",
             },
