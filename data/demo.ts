@@ -14,26 +14,26 @@ export const page: Page = {
     },
     nav: {
       items: [
-        {
-          title: "Pricing",
-          url: "https://pagen.so/pricing",
-          target: "_blank",
-        },
-        {
-          title: "Youtube title generator",
-          url: "https://pagen.so/landing-page-generator",
-          target: "_blank",
-        },
-        {
-          title: "Youtube content generators",
-          url: "https://pagen.so/showcases",
-          target: "_blank",
-        },
-        {
-          title: "Blog",
-          url: "https://pagen.so/templates",
-          target: "_blank",
-        },
+        // {
+        //   title: "Pricing",
+        //   url: "https://pagen.so/pricing",
+        //   target: "_blank",
+        // },
+        // {
+        //   title: "Youtube title generator",
+        //   url: "https://pagen.so/landing-page-generator",
+        //   target: "_blank",
+        // },
+        // {
+        //   title: "Youtube content generators",
+        //   url: "https://pagen.so/showcases",
+        //   target: "_blank",
+        // },
+        // {
+        //   title: "Blog",
+        //   url: "https://pagen.so/templates",
+        //   target: "_blank",
+        // },
       ],
     },
     buttons: [
@@ -45,12 +45,12 @@ export const page: Page = {
     ],
   },
   hero: {
-    title: "Transform Your YouTube Channel with tubeGPT",
+    title: "AI博客生成器",
     description:
-      "Boost your creativity with YouTube's AI-powered writing assistantengagement, and social media marketing.",
-    image: {
-      src: "/imgs/hero.png",
-    },
+      "一个想法AI生成完整的播客.",
+    // image: {
+    //   src: "/imgs/hero.png",
+    // },
     image_position: "right",
     text_align: "left",
     buttons: [
@@ -59,12 +59,12 @@ export const page: Page = {
         url: "https://pagen.so/landing-page-generator",
         target: "_blank",
       },
-      {
-        title: "Vote on ProductHunt",
-        url: "https://www.producthunt.com/posts/pagen",
-        target: "_blank",
-        theme: "outline",
-      },
+      // {
+      //   title: "Vote on ProductHunt",
+      //   url: "https://www.producthunt.com/posts/pagen",
+      //   target: "_blank",
+      //   theme: "outline",
+      // },
     ],
     show_happy_users: true,
     show_proof: false,
